@@ -9,7 +9,8 @@ var myApp = angular.module('myApp',
         'ngSanitize', // for html-bind in ckeditor
         'ui.ace', // ace code editor
         'ui.bootstrap', // jquery ui bootstrap
-        '$strap.directives' // angular strap
+        '$strap.directives', // angular strap
+        'xeditable' // xeditable
     ]);
 
 
